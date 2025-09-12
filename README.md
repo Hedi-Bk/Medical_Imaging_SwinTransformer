@@ -22,3 +22,17 @@ This project implements an end-to-end pipeline for **brain tumor segmentation** 
 - **Evaluation**: Dice score & validation pipeline  
 - **Interface**: Gradio app to upload scans and visualize predictions  
 
+## Contributors
+
+- [**Hedi Ben Khalifa**](https://github.com/Hedi-Bk)
+        
+- [**Aziz Esseghaier**](https://github.com/aziz-esseghaier)
+    
+    
+
+---
+
+##  References
+
+- MONAI Documentation
+- BraTS 2021 Dataset
