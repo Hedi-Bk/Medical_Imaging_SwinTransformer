@@ -2,7 +2,7 @@
 
 Exploring **AI in Healthcare**, focusing on deep learning models for **medical image segmentation** and analysis.  
 This repository showcases research and implementations of state-of-the-art models applied to medical imaging tasks.  
-![Brain Tumour MRI Segmentation](https://raw.githubusercontent.com/Hedi-Bk/Brain-Tumor-Segmentation/main/brain.jpg)  
+![Brain Tumour MRI Segmentation](https://raw.githubusercontent.com/Hedi-Bk/Medical_Imaging_SwinTransformer/main/brain.jpg)  
 
 
 ---
