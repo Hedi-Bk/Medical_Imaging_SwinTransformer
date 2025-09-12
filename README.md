@@ -6,6 +6,8 @@ This repository showcases research and implementations of state-of-the-art model
 
 
 ---
+## Project Overview  
+
 
 | **Topic** | Kaggle Notebook | Blog (Notion) | Live Demo | Video |
 |--------------|-------------------|------------------|--------------|----------|
