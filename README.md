@@ -1,5 +1,5 @@
 
-## 🎯 Medical Imaging Projects  
+## Brain Tumour Segmentation Using SwinUnetr 
 
 Exploring **AI in Healthcare**, focusing on deep learning models for **medical image segmentation** and analysis.  
 This repository showcases research and implementations of state-of-the-art models applied to medical imaging tasks.  
