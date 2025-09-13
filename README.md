@@ -33,7 +33,7 @@ This project implements an end-to-end pipeline for **brain tumor segmentation** 
 
 ##  Contributors  
 
-- [**Hedi Ben Khalifa**](https://github.com/Hedi-Bk)  
+- [**Hedi Ben Khalifa**](https://github.com/Hedi-Bk)  (Me)
 - [**Aziz Esseghaier**](https://github.com/aziz-esseghaier) 
 
 ---
